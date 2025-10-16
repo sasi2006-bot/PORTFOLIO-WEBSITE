@@ -30,7 +30,7 @@ NM Project
     <section id="home" class="hero">
       <div class="container hero-inner">
         <div class="hero-text">
-          <h1>Hi, I'm <span>Vennila</span></h1>
+          <h1>Hi, I'm <span>Sasi</span></h1>
           <p>Computer Science student · Aspiring Frontend Developer · Passionate about building useful apps</p>
           <div class="hero-ctas">
             <a class="btn" href="#projects">View Projects</a>
