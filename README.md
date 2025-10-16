@@ -5,14 +5,14 @@ NM Project
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Vennila — Portfolio</title>
+  <title>Sasi — Portfolio</title>
   <link rel="stylesheet" href="styles.css" />
-  <meta name="description" content="Portfolio of Vennila — CSE student, developer." />
+  <meta name="description" content="Portfolio of Sasi — CSE student, developer." />
 </head>
 <body>
   <header class="site-header">
     <div class="container header-inner">
-      <a class="logo" href="#home">Vennila</a>
+      <a class="logo" href="#home">Sasi</a>
       <nav id="nav" class="nav">
         <a href="#home">Home</a>
         <a href="#about">About</a>
@@ -38,7 +38,7 @@ NM Project
           </div>
         </div>
         <div class="hero-image">
-          <img src="assets/profile.jpg" alt="Vennila profile picture" />
+          <img src="assets/profile.jpg" alt="Sasiprofile picture" />
         </div>
       </div>
     </section>
@@ -49,7 +49,7 @@ NM Project
         <h2>About Me</h2>
         <div class="about-grid">
           <div>
-            <p><strong>Name:</strong> Vennila</p>
+            <p><strong>Name:</strong> Sasi</p>
             <p><strong>College:</strong> Sardar Raja College of Engineering</p>
             <p><strong>Department:</strong> CSE</p>
             <p><strong>Goal:</strong> Become a frontend/software developer to support my family</p>
@@ -144,7 +144,7 @@ NM Project
 
         <div class="contact-info">
           <h3>Get in touch</h3>
-          <p><strong>Email:</strong> <a href="mailto:vennila@example.com">vennila@example.com</a></p>
+          <p><strong>Email:</strong> <a href="mailto:sasi@example.com">sasi@example.com</a></p>
           <p><strong>Phone:</strong> +91-XXXXXXXXXX</p>
           <div class="socials">
             <a href="#" target="_blank" rel="noopener">GitHub</a>
@@ -158,7 +158,7 @@ NM Project
 
   <footer class="site-footer">
     <div class="container">
-      <p>© <span id="year"></span> Vennila — Sardar Raja College of Engineering</p>
+      <p>© <span id="year"></span> Sasi — Sardar Raja College of Engineering</p>
     </div>
   </footer>
 
